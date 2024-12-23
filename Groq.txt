@@ -1,0 +1,9 @@
+collection.add(
+    documents=[
+        "John, a Computer Science graduate, skilled in Python, machine learning, and data preprocessing. Completed customer churn prediction project. Enthusiastic learner.",
+        "Emily, a Statistics graduate, proficient in R, data visualization, and hypothesis testing. Completed climate data visualization project. Analytical and detail-oriented.",
+        "Rahul, an IT graduate, with expertise in Python, SQL, and data visualization. Developed an e-commerce recommendation system. Eager learner.",
+        "Sophia, a Mathematics graduate, skilled in machine learning, NLP, and Python. Completed a sentiment analysis project. Passionate about AI."
+    ],
+    ids=["John", "Emily","Rahul","Sophia"]
+)
